@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "hexachordal",
+	"author": "Francois Harewood",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
